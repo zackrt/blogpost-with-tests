@@ -1,4 +1,4 @@
-Blog app API starter files
+Blog app API 
 ==========================
-
-Starter files for blog app challenge
+Files for blog app challenge
+Express.js, Mocha, Chai, Node.js, Travis.CI, Heroku 
